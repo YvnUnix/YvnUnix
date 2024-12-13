@@ -1,7 +1,8 @@
-# 👋 Hi, I’m @YvnUnix
-I'm a software developer from france.
+# 👋 Hi,
+I'm YvnUnix, a software developer from France and a UNIX-type system user. I successfully ran GNU/Linux for about 10 years, then moved to FreeBSD for about 3 years, and now have moved to Apple with macOS, which runs on the Darwin kernel. It's safe to say that I'm a UNIX user. I was a little bit worried that Mac would be too restricted for my liking, but the last year or so working on Mac has been... amazing! So much so that I decided to learn more about it and start writing software for that specific platform. Other than that, I love reading books, traveling to learn new things, and I'm also interested in sciences and mathematics.
+
 ## 👀 I’m interested in ...
-In working on the Apple plafrom, and ofcource I keen on working on open-source project.
+
 
 ## 🌱 I’m currently learning ...
 Native iOS developement with a little bit of C and C++. 
