@@ -5,7 +5,7 @@ I am a software developer from France and a UNIX-type system user. I successfull
 Everything that has to do with system design. 
 
 ## 🌱 I now learning ...
-System design and it's been a ton of fun ! I curently explore swiftUI. 
+System design and it's been a ton of fun ! 
 
 ## 📫 How to reach me ...
   You can find me on GitHub of course, on Mastondon and on Discord. 
